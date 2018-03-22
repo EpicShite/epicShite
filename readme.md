@@ -12,7 +12,7 @@ https://nodejs.org/en/
 
 4. run npm install ( this is to install all the package project requires)
 
-5. run npm run dev to run the server
+5. run `npm run dev` to run the server
 
 6. visit "localhost:8080" in the chrome
 
