@@ -1,4 +1,4 @@
-#init process
+# init process
 
 1. install git
 https://git-scm.com/download/win
